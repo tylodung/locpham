@@ -11,7 +11,9 @@
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
+					<font color="#FFFFFF"><marquee direction="left" style="background:BLUE">TEXT</marquee></font>
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
+						
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
                             {% include date.html date=page.date %}
                         </time>
