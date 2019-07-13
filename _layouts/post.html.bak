@@ -12,7 +12,6 @@
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
-						<font color="#FFFFFF"><marquee direction="left" style="background:BLUE">TEXT</marquee></font>
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
                             {% include date.html date=page.date %}
                         </time>
