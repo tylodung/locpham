@@ -9,7 +9,6 @@ layout: compress
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="post">
-		<font color="#FFFFFF"><marquee direction="left" style="background:BLUE">Siêu Thị Mỹ Phẩm hân hạnh phục vụ Quý Khách!</marquee></font>
 
             <article id="post" class="post-content" role="main" itemprop="mainContentOfPage">
                 {{ content }}
