@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kem dưỡng da ban đêm"
-date: 2019-07-01 12:26:40
+date: 2019-07-01 13:26:40
 image: 'https://asinice.vn/i/2019/06/1-300x300.jpg'
 description: Điện thoại giao ngay 090 268 3189
 category: 'AsiNice'
@@ -9,10 +9,9 @@ tags:
 - SP khác của AsiNice
 
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: 220,000₫ <del>230,000₫</del> 
+introduction: 230,000₫ 
 ---
 
-## THÔNG TIN SP
 
 Kem dưỡng da ban đêm AsiNice giúp dưỡng da trước khi đi ngủ, giúp se khít lỗ chân lông, cân bằng độ ẩm, tái tạo và chống lão hoá da… Được chiết xuất 100% từ thiên nhiên, giúp bạn dưỡng da ban đêm an toàn…
 
@@ -28,4 +27,4 @@ Tinh chất chiết xuất từ Củ Đậu vùng đồng bằng châu thổ sô
 
 **Cách sử dụng kem trị mụn Asinice:**
 
-Kem dưỡng trắng da ban đêm AsiNice đặc hiệu cho làn da nám, mụn, tàn nhang, sần sùi, giúp dưỡng ẩm cho da, trắng da, để lại cho bạn làn da trắng sáng, mịn màng như ý, có tác dụng dưỡng da lâu dài…Thoa một lớp kem mỏng đều khắp mặt, để tứi sáng sau đó rửa lại bằng Sữa Rửa Mặt AsiNice, sau đó tiếp tục thoa kem dùng cho ban ngày (bạn nên sử dụng mỗi ngày để có làn da như ý).
+Kem dưỡng trắng da ban đêm AsiNice đặc hiệu cho làn da nám, mụn, tàn nhang, sần sùi, giúp dưỡng ẩm cho da, trắng da, để lại cho bạn làn da trắng sáng, mịn màng như ý, có tác dụng dưỡng da lâu dài… Thoa một lớp kem mỏng đều khắp mặt, để tứi sáng sau đó rửa lại bằng Sữa Rửa Mặt AsiNice, sau đó tiếp tục thoa kem dùng cho ban ngày (bạn nên sử dụng mỗi ngày để có làn da như ý).
