@@ -1,13 +1,13 @@
 # Site Settings
-title: Siêu Thị Mỹ Phẩm | Rạng Ngời Vẻ Đẹp Việt
+title: Bách Hoá Mỹ Phẩm | Rạng Ngời Vẻ Đẹp Việt
 email: doan.trong.quoc.binh@gmail.com
-description: Siêu Thị Mỹ Phẩm hân hạnh chào đón bạn đến với Trang Web trực tuyến phục vụ khách hàng từ xa của chúng tôi.
+description: Hân hạnh chào đón bạn đến với Trang Web trực tuyến phục vụ khách hàng từ xa của chúng tôi.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://omedata.com" # the base hostname & protocol for your site
+url: "https://congdata.com" # the base hostname & protocol for your site
 google_analytics: "UA-138771107-1"
 
 # User Settings
-username: Siêu Thị Mỹ Phẩm
+username: Bách Hoá Mỹ Phẩm
 user_description: Hotline 090 2683 189 | Fanpage https://www.facebook.com/AsiniceDung/
 disqus_username: disqus_username
 
