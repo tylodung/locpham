@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kem dưỡng trắng da Collagen"
-date: 2019-07-02 12:26:40
+date: 2019-08-06 12:26:40
 image: 'https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.0-9/66088761_1328143447339757_7023468411791343616_n.jpg?_nc_cat=106&_nc_oc=AQkpnTZqbdp0zZ2SHKcmZfRc5NHzHPpA8pXofuFDfEgbWHDdWuJiXio-ei8eazTLlgQ&_nc_ht=scontent.fsgn2-3.fna&oh=ce9e44cc4e764099cdbad2fc15649eef&oe=5DBFCFF7'
 description: Điện thoại giao ngay 090 268 3189
 category: 'N.G'
@@ -43,4 +43,4 @@ Sử Dụng tốt nhất là theo liệu trình của Bộ Dưỡng Trắng Da G
 
 ![ten buc hinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/66796650_1335738213246947_3178080811819728896_n.jpg?_nc_cat=100&_nc_oc=AQkBaAanFliQFCQaThfxRI9UeiAltwtkw-NsujWGeJ86Rh_XZEAbRaBf6tmZdIF8iVo&_nc_ht=scontent.fsgn2-2.fna&oh=42b12d41cd75430dca91fa0c07d01e86&oe=5DAB2131 "ten buc hinh")
 
-*LƯU Ý:* Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
+**Lưu ý:** Nếu bạn đang sử dụng kháng sinh liều cao phải tối thiểu 4 ngày sau khi ngưng dùng thuốc mới nên sử dụng vì sản phẩm được chiết xuất hoàn toàn từ thảo dược nên có thể gây phản ứng như ngứa, châm chích... trong vài lần sử dụng đầu tiên.
